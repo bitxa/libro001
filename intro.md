@@ -1,4 +1,4 @@
-# MI LIBRO JOEL
+# MI LIBRO JOEL ROMERO
 
 This is a small sample book to give you a feel for how book content is
 structured.
